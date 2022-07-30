@@ -13,10 +13,12 @@
     display: flex;
     justify-content: space-around;
 }
+
 .nav_black{
     background-color:#111;
 
 }
+
 .nav_logo{
     position: fixed;
     left: 0;
@@ -26,6 +28,7 @@
     height: 90px;
     width: 100px;
 }
+
 .nav_avatar{
     position: fixed;
     cursor: pointer;
